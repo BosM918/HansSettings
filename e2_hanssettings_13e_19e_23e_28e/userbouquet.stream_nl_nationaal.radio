@@ -805,6 +805,8 @@
 #DESCRIPTION Memories 1251 (NL)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-28.stream-server.nl%3a8972/01:MCB (NL)
 #DESCRIPTION MCB (NL)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mix106.stream.laut.fm/mix106:Mix 106 (NL)
+#DESCRIPTION Mix 106 (NL)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.242.99.243%3a8000/stream:MPR - Music Power Radio (NL)
 #DESCRIPTION MPR - Music Power Radio (NL)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-25.stream-server.nl%3a8314:Musicvaria (NL)
