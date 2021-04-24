@@ -338,6 +338,10 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast2.globallogic.nl/soi.mp3:Radio Decibel Ibiza
 #DESCRIPTION Radio Decibel Ibiza
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radionl.fm/radionl:RadioNL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//smallstream.radiomonique.am/64AAC:Radio Monique 918
+#DESCRIPTION Radio Monique 918
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.210.204.166%3a8004:Radio Monique 918
+#DESCRIPTION Radio Monique 918
 #DESCRIPTION RadioNL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//558bd16067b67.streamlock.net/radionl/radionl/playlist.m3u8:RADIONL webcam
 #DESCRIPTION RADIONL webcam
