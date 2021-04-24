@@ -509,6 +509,8 @@
 #DESCRIPTION CIA-Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiosaarlouis-live.cast.addradio.de/radiosaarlouis/live/mp3/high/stream.mp3:CityRadio Saarlouis (Duitsland)
 #DESCRIPTION CityRadio Saarlouis (Duitsland)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/ClassicHits106:Classic Hits 106(Duitsland)
+#DESCRIPTION Classic Hits 106 (Duitsland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cityradiotrier.cast.addradio.de/fs_cityradiotrier/simulcast/high/stream.mp3:CityRadio Trier
 #DESCRIPTION CityRadio Trier
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//internetradio.salue.de%3a8000/classicrock.mp3:Classic-Rock-Radio
@@ -1045,8 +1047,6 @@
 #DESCRIPTION Hirschmilch-Radio-Psytrance-AAC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hirschmilch.de%3a7000/psytrance.mp3:Hirschmilch-Radio-Psytrance-MP3
 #DESCRIPTION Hirschmilch-Radio-Psytrance-MP3
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/ClassicHits106:Hit Radio Rocky (Duitsland)
-#DESCRIPTION Hit Radio Rocky (Duitsland)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/radioffh/livestream.mp3:Hit-Radio-FFH
 #DESCRIPTION Hit-Radio-FFH
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/radioffh/hqlivestream.mp3:Hit-Radio-FFH
