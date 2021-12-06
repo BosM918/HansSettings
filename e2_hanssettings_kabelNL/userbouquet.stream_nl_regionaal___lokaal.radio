@@ -837,8 +837,6 @@
 #DESCRIPTION Radio Kashmir Lounge (Amsterdam)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kepler.shoutca.st%3a8528/stream:Radio Monique 918
 #DESCRIPTION Radio Monique 918
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//securestreams6.autopo.st%3a2199/;&type=mp3:Radio Monique 918
-#DESCRIPTION Radio Monique 918
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secure.stream.radiomuziekstad.nl/muziekstad.mp3:Radio Muziekstad (regio Haarlem, Noord-Holland)
 #DESCRIPTION Radio Muziekstad (regio Haarlem, Noord-Holland)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.streamaudio.de%3a8000/radio-neerlandika:Radio Neerlandika (Amsterdam)
