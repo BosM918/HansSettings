@@ -263,6 +263,8 @@
 #DESCRIPTION Olympia radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.olympia-classics.nl/classics:Olympia Radio Classics
 #DESCRIPTION Olympia Radio Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kepler.shoutca.st%3a8528/stream:Radio Monique 918
+#DESCRIPTION Radio Monique 918
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.qmusic.nl/qmusic/mp3:Qmusic
 #DESCRIPTION Qmusic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.qmusic.nl/fouteuur/mp3:Qmusic Foute Uur
